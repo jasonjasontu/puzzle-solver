@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "color": "red"
+  },
+  "actor": {
+    "color": "red",
+    "location": [
+      2,
+      3,
+      2
+    ]
+  },
+  "pillars": [
+    {
+      "type": "number",
+      "location": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "type": "number",
+      "location": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "number",
+      "location": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "number",
+      "location": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "type": "number",
+      "location": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "type": "number",
+      "location": [
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "number",
+      "location": [
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "type": "number",
+      "location": [
+        2,
+        2,
+        0
+      ]
+    },
+    {
+      "type": "number",
+      "location": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "type": "number",
+      "location": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "type": "number",
+      "location": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "type": "finish",
+      "location": [
+        1,
+        0,
+        2
+      ]
+    }
+  ]
+}
